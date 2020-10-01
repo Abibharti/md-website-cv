@@ -21,7 +21,7 @@ For the HTML conversion I use a CSS stylesheet (`style.css`) which:
 For the LaTeX/pdf conversion, I use a pandoc LaTeX template file with some custom settings as well.
 These are located in the `template.tex` file.
 
-## Use
+## Uses
 
 Make changes to the markdown file `index.md`. Run `make` (or `make compile`) and it will produce a .pdf and .html.
 
